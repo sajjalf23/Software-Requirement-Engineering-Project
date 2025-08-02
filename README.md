@@ -29,7 +29,7 @@ A detailed technical and functional breakdown of the system requirements:
 - User roles & permissions
 - Data flow diagrams (DFDs)
 - UML diagrams
-
+🔗 [Here is the link to SRS](https://github.com/sajjalf23/Software-Requirement-Engineering-Project/blob/main/SRS.docx)
 ---
 
 ### ✅ Software Requirements Engineering (SRE)
@@ -38,7 +38,7 @@ Describes the process followed to elicit, analyze, and validate the software req
 - Requirement elicitation techniques
 - Prioritization of features
 - Traceability matrix
-
+🔗 [Here is the link to SRE](https://github.com/sajjalf23/Software-Requirement-Engineering-Project/blob/main/SRE_Project.docx)
 
 ---
 
@@ -48,7 +48,7 @@ A visual storyboard showcasing key user interfaces:
 - Book catalog view
 - Borrow/Return book pages
 - Admin panel
-
+🔗 [Here is the link to SRE](https://github.com/sajjalf23/Software-Requirement-Engineering-Project/blob/main/Storyboard.pdf)
 
 
 
